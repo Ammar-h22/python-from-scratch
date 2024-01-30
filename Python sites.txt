@@ -1,0 +1,16 @@
+Important Python websites:
+https://docs.python.org/3/py-modindex.html#cap-r
+https://pypi.org/
+https://regex101.com/
+https://passwordsgenerator.net/sha1-hash-generator/
+https://scrapy.org/ (Python Framework for scraping websites)
+https://www.pythonanywhere.com/user/ammar22h/ (Hosted my portfolio website)
+https://demo.seleniumeasy.com/ (For testing and playing with selenium)
+https://selenium-python.readthedocs.io/
+https://www.geeksforgeeks.org/locating-single-elements-in-selenium-python/ (For accessing the elements in selenium)
+
+Readymade templates:
+https://themewagon.com/author/mashuptemplate/
+https://html5up.net/
+https://www.creative-tim.com/bootstrap-themes/free
+
